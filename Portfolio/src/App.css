@@ -1,0 +1,102 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+/* schools card  */
+/* .school-container{
+  display: flex;
+  gap: 10px;
+} */
+
+.school-card {
+  padding: 1rem;
+  /* background-color: #161a1d; */
+  transition: background-color 0.3s;
+  border:1.7px solid rgba(137, 180, 230, 0.208) !important;
+  border-radius: 10px;
+  margin-bottom:20px ;
+  cursor: pointer;
+  
+}
+
+.school-card:hover {
+  background-color: #05564a15;
+}
+
+.school-card-border {
+  border-bottom: 1px solid #fff;
+}
+
+.school-card-flex {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.school-name{
+font-size: 18px;
+}
+.school-level{
+  color: gray;
+}
+
+.school-year{
+  color:gray;
+}
+
+
+/* experience list */
+.expireince-list{
+  list-style: disc;
+  color: rgb(109, 109, 109);
+  
+}
+.experience-job{
+  color: gray;
+  font-weight:bolder;
+}
+.experience-list-container{
+  
+  width: 100%;
+}
+
+
+/* fork-button */
+.fork-button{
+  border:1px solid red;
+}
