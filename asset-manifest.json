@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Izerque-Portfolio/static/css/main.4ac1bb88.css",
+    "main.js": "/Izerque-Portfolio/static/js/main.5d38bf97.js",
+    "static/js/453.ace21015.chunk.js": "/Izerque-Portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/shopy.png": "/Izerque-Portfolio/static/media/shopy.def11757579c51e91dd7.png",
+    "static/media/eatify.png": "/Izerque-Portfolio/static/media/eatify.187d9be7d2bc7f309144.png",
+    "static/media/homeimg.png": "/Izerque-Portfolio/static/media/homeimg.4f17590a59865daf487e.png",
+    "static/media/rentsafe.png": "/Izerque-Portfolio/static/media/rentsafe.ce67ca2f40f45f2a81ac.png",
+    "static/media/musica.png": "/Izerque-Portfolio/static/media/musica.3ead727019ca5e6e0005.png",
+    "static/media/muvyhub.png": "/Izerque-Portfolio/static/media/muvyhub.29e9662154f6ffb288d6.png",
+    "static/media/leaf.png": "/Izerque-Portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/Izerque-Portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/Izerque-Portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/Izerque-Portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/Isaac_Mbangire_Resume.pdf": "/Izerque-Portfolio/static/media/Isaac_Mbangire_Resume.801f2aad97de491adfc3.pdf",
+    "static/media/blog.png": "/Izerque-Portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/mimo-01.png": "/Izerque-Portfolio/static/media/mimo-01.ea321ee19d7251afdd91.png",
+    "static/media/home-main.svg": "/Izerque-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Izerque-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/aboutIllu.png": "/Izerque-Portfolio/static/media/aboutIllu.018ba7e17556e90e4f8d.png",
+    "static/media/chatify.png": "/Izerque-Portfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/avatar.svg": "/Izerque-Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/Izerque-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Izerque-Portfolio/index.html",
+    "main.4ac1bb88.css.map": "/Izerque-Portfolio/static/css/main.4ac1bb88.css.map",
+    "main.5d38bf97.js.map": "/Izerque-Portfolio/static/js/main.5d38bf97.js.map",
+    "453.ace21015.chunk.js.map": "/Izerque-Portfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ac1bb88.css",
+    "static/js/main.5d38bf97.js"
+  ]
+}
